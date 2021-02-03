@@ -16,7 +16,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisagold&show_icons=true&locale=en&layout=compact" alt="chrisagold" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisagold&show_icons=true&locale=en" alt="chrisagold" /></p>
+[comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisagold&show_icons=true&locale=en" alt="chrisagold" /></p>)
+
+![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisagold&show_icons=true&theme=merko)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisagold&" alt="chrisagold" /></p>
 # ReadMe
