@@ -1,4 +1,4 @@
-![banner with street view](https://github.com/ChriAgold/ConWulf/raw/main/street.jpg)
+![banner with street view](https://github.com/ChriAgold/ChrisAgold/raw/main/street.jpg)
 
 <h1 align="center">Hi 👋, I'm Chris 🎸</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
