@@ -1,4 +1,4 @@
-![banner with street view](img/street.jpg)
+![banner with street view](img/street1.jpg)
 
 <h1 align="center">Hi 👋, I'm Chris 🎸</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
