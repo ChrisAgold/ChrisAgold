@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
+![banner with street view](https://github.com/ChriAgold/ConWulf/raw/main/street.jpg)
+
+<h1 align="center">Hi 👋, I'm Chris 🎸</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-
-- 🌱 I’m currently learning **Java**
+- 💻  I'm a software developer
+- 📡  I love learning about new technology
+- ☕️ I’m currently learning **Java**
 - 📫 How to reach me **christophersagold@gmail.com**
 
 [comment]: <> (<h3 align="left">Connect with me:</h3>)
@@ -17,13 +20,13 @@
 
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisagold&show_icons=true&theme=merko)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisagold&show_icons=true&locale=en&layout=compact" alt="chrisagold" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisagold&theme=merko&show_icons=true&locale=en&layout=compact" alt="chrisagold" /></p>
 
 [comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisagold&show_icons=true&locale=en" alt="chrisagold" /></p>)
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisagold&" alt="chrisagold" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisagold&theme=merko&hide_border=true" alt="chrisagold" /></p>
 # ReadMe
 # ChrisAgold
