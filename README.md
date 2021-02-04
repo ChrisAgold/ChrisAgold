@@ -4,8 +4,8 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 - 💻 -  I'm a software developer
-- 📡 -  I love learning about new technology
 - ☕️ - I’m currently learning **Java**
+- 📡 -  I love learning about new technology
 - 📫 - How to reach me: **christophersagold@gmail.com**
 
 [comment]: <> (<h3 align="left">Connect with me:</h3>)
