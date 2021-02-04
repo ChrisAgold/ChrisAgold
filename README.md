@@ -1,12 +1,12 @@
-![banner with street view](https://github.com/ChriAgold/ChrisAgold/raw/main/street.jpg)
+[comment]: <> (![banner with street view]&#40;https://github.com/ChriAgold/ChrisAgold/raw/main/street.jpg&#41;)
 
 <h1 align="center">Hi 👋, I'm Chris 🎸</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 💻  I'm a software developer
-- 📡  I love learning about new technology
-- ☕️ I’m currently learning **Java**
-- 📫 How to reach me **christophersagold@gmail.com**
+- 💻 -  I'm a software developer
+- 📡 -  I love learning about new technology
+- ☕️ - I’m currently learning **Java**
+- 📫 - How to reach me **christophersagold@gmail.com**
 
 [comment]: <> (<h3 align="left">Connect with me:</h3>)
 <p align="left">
