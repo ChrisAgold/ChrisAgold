@@ -7,7 +7,7 @@
 
 ---
 
-- 💻 -  I'm a software developer
+- 💻 -  I'm a web developer
 - ☕️ - I’m currently learning **Java**
 - 📡 -  I love learning about new technology
 
