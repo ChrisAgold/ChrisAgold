@@ -8,7 +8,7 @@
 ---
 
 - 💻 -  I'm a web developer
-- ☕️ - I’m currently learning **Java**
+- ☕️ - I’m currently learning **React**
 - 📡 -  I love learning about new technology
 
 [comment]: <> (- 📫 - How to reach me: **christophersagold@gmail.com**)
