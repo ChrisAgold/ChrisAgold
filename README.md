@@ -1,4 +1,4 @@
-![banner with street view](img/street1.jpg)
+![banner with street view](img/viet.gif)
 
 
 
