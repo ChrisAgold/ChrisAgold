@@ -1,7 +1,7 @@
 
-![!banner with street view](img/comp.gif)
+![!banner with street view](img/tech.gif)
 
-
+<hr>
 
 <h1 align="center">Hello World 👋, I'm Chris 🎸</h1>
 <h3 align="center">Front-End Developer</h3>
