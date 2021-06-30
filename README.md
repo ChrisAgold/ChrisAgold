@@ -1,5 +1,5 @@
 
-![!banner with street view](img/tech.gif)
+![!banner with street view](img/roof.gif)
 
 <hr>
 
@@ -35,13 +35,13 @@
 [comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=chrisagold&show_icons=true&theme=solarized-dark&#41;  )
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAgold&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
+  <img align="center" width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAgold&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
  </a>
 
 ---
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="425px" src="https://github-readme-stats.vercel.app/api?username=ChrisAgold&theme=solarized-dark&show_icons=true&locale=en&layout=compact">
+  <img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=ChrisAgold&theme=solarized-dark&show_icons=true&locale=en&layout=compact">
 </a>
 
 ---
